@@ -1,0 +1,11 @@
+{
+  "CORE-701": [
+    "src/test/java/grading/AvailableBalanceGradingTest.java"
+  ],
+  "CORE-708": [
+    "src/test/java/grading/StatementBoundaryGradingTest.java"
+  ],
+  "CORE-715": [
+    "src/test/java/grading/InterestAccrualGradingTest.java"
+  ]
+}
